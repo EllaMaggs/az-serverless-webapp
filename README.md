@@ -1,7 +1,5 @@
 # Azure Serverless Static Web App with Visitor Counter and Analytics
-This is my website! It's a static website hosted on Azure Storage with a visitor counter powered by .NET and Azure Functions. Developed with HTML, CSS, and JavaScript; it features CI/CD workflows managed via GitHub Actions and integrates Azure services like Blob Storage and CosmosDB for a serverless web app with a dynamic database. 
 
-## Demo
 [View it live here](https://www.ellamaggs.com/)
 
 ## Structure
